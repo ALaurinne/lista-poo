@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "AlunoTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=AlunoTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "ContagemTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=ContagemTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "ContaTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=ContaTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "PedidoTest",
+      "setup": "",
+      "run": "mvn -q -B -ntp -Dtest=PedidoTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
