@@ -1,4 +1,4 @@
-# listas-poo
+# Listas POO
 Listas diversas de Programação Orientada a Objeto - MATA55 - UFBA
 
 Para reforçar os aprendizados em POO, foram passadas 4 listas com diversos problemas a serem solucionados: 
